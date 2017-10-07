@@ -248,3 +248,9 @@ export default {
     }
 }
 ```
+
+### Question tree schematic
+
+This is a schematic representation of the question tree above
+
+![Question tree](https://raw.githubusercontent.com/SabatinoMasala/vue-smart-questions/master/screenshots/tree.png)
