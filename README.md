@@ -1,6 +1,8 @@
 # Vue Smart Questions
 Vue framework for building forms with simple question trees.
 
+Check out the [demo](https://sabatinomasala.github.io/vue-smart-questions-example/)
+
 ## Getting started
 
 Pull in the package:
