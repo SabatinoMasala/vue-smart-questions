@@ -1,6 +1,6 @@
 {
   "name": "vue-smart-questions",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Smart questions framework",
   "author": "Sabatino Masala <Masalasabatino@gmail.com>",
   "main": "dist/vue-smart-questions.js",
@@ -14,6 +14,11 @@
   "dependencies": {
     "vue": "^2.4.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabatinoMasala/vue-smart-questions.git"
+  },
+  "homepage": "https://github.com/SabatinoMasala/vue-smart-questions",
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.22.1",
